@@ -2,4 +2,6 @@ marquee{
     padding: 0px;
     background-color: antiquewhite;
     text-align: center;
+    border: 2;
+    border-color: black;
 }
